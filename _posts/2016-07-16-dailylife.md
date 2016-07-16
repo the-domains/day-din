@@ -1,13 +1,13 @@
 ---
 description: Daily life in Sao Paulo
-dateModified: '2016-07-16T22:57:15.045Z'
-datePublished: '2016-07-16T23:04:57.139Z'
+dateModified: '2016-07-16T23:05:29.465Z'
+datePublished: '2016-07-16T23:05:29.979Z'
 title: '#dailylife'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e77486-2889-4f07-abd4-d95962bc70fb.png
-starred: false
 sourcePath: _posts/2016-07-16-dailylife.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
