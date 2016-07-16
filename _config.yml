@@ -1,0 +1,14 @@
+layout_spectrum: 0.1626514
+color:
+  saturation: 0.1542045
+  lightness: 0.4546376
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#0F0F0F'
+    - '#202020'
+    - '#303030'
+    - '#3D3D3D'
+  rhythmicContrast: 0.3834798
+typography_spectrum: 0.327957
+name: Day Din
