@@ -4,7 +4,7 @@
         <description><![CDATA[Day Din]]></description>
         <link>https://thegrid.ai/day-din/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 23:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 23:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/day-din/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#dailylife]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e77486-2889-4f07-abd4-d95962bc70fb.png</link>
             <guid isPermaLink="false">f8f32431-fe7c-4346-98c7-02057d2a7ba1</guid>
             <pubDate>Sat, 16 Jul 2016 23:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bfff9cb-84ac-48d4-bb92-5214841530ba.jpg">]]></description>
-            <link>https://thegrid.ai/day-din/a6054edb-c0e0-4768-8a05-e195f7234d0c/index.html</link>
-            <guid isPermaLink="false">a6054edb-c0e0-4768-8a05-e195f7234d0c</guid>
-            <pubDate>Sat, 16 Jul 2016 23:04:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
