@@ -1,16 +1,28 @@
-layout_spectrum: 0.1626514
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bd2f86b-832e-4857-a7b9-5e2fc3f83c04.png
+typography_spectrum: 0.327957
 color:
   saturation: 0.1542045
-  lightness: 0.4546376
   brandStrength: 1
+  rhythmicContrast: 0.3834798
   brandColors:
     - '#000000'
     - '#0F0F0F'
     - '#202020'
     - '#303030'
     - '#3D3D3D'
-  rhythmicContrast: 0.3834798
-typography_spectrum: 0.327957
+  lightness: 0.4546376
+layout_spectrum: 0.9802867
 name: Day Din
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bd2f86b-832e-4857-a7b9-5e2fc3f83c04.png
