@@ -14,11 +14,7 @@ layout_spectrum: 0.9802867
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bd2f86b-832e-4857-a7b9-5e2fc3f83c04.png
 name: Day Din
-navigation:
-  - id: 85b24e02-ad75-47d6-97be-796263b274c6
-    url: 2016-07-17-studiolife.html
-    name: '#studiolife'
-    type: content
+navigation: []
 collections:
   - index:
       path: /
