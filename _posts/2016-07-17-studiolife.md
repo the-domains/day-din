@@ -1,16 +1,13 @@
 ---
 author: []
 title: '#studiolife'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45df4854-9efd-43ae-aa52-48bd2a00a854.jpg
-dateModified: '2016-07-17T00:46:36.530Z'
-datePublished: '2016-07-17T00:47:25.307Z'
+dateModified: '2016-07-18T13:01:17.827Z'
+datePublished: '2016-07-18T13:01:18.372Z'
 description: Analog synths still rule ...
-starred: false
 sourcePath: _posts/2016-07-17-studiolife.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: studiolife/index.html
 _type: MediaObject
 
 ---
